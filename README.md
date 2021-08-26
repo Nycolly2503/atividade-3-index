@@ -22,5 +22,4 @@ nos perguntamos de que modo é feito e oque está por trás da página rica em d
 cada linguagem e o que elas me permitem fazer com uma página da web </ p >
 
 </ body >
-
 </html>
